@@ -25,7 +25,7 @@ public class App
 				String apellido2= p.getApellido2();
 				int edad= p.getEdad();
 		
-				System.out.println("Tu nombre es "+nombre+" te apellidas "+apellido1+" "+apellido2+" y tienes "+edad+" años");
+				System.out.println("Tu nombre es"+nombre+" te apellidas "+apellido1+" "+apellido2+" y tienes "+edad+" años");
 			}
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block

@@ -5,7 +5,7 @@ public class Persona {
 	private String apellido1;
 	private String apellido2;
 	private int edad;
-	
+//esto es un comentario	
 	public Persona(String nombre, String apellido1, String apellido2, int edad) {
 		super();
 		this.nombre = nombre;
